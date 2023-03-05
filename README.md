@@ -1,4 +1,4 @@
-# MySQL Relational-Database-for-Small-Fictitious-Business
+# MySQL-Relational-Database-for-Small-Fictitious-Business
 
 ## PROJECT DISCRIPTION 
 
