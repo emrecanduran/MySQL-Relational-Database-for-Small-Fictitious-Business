@@ -39,7 +39,7 @@ involved in the development and maintenance of a database system.
 
 ### What is EER? 
 
-EER (Enhanced Entity-Relationship) diagrams are an extension of ER diagrams and include additional concepts and constructs such as subtypes, supertypes, and generalization. EER diagrams have additional features that allow more complex relationships between entities and enable developers to create more precise models of a database system. For example, EER diagrams can model a hierarchy of entities, where each entity type is a subset of a more general entity type.
+EER (Enhanced Entity-Relationship) diagrams are an extension of ER diagrams and include additional concepts and constructs such as subtypes, supertypes, and generalization. EER diagrams have additional features that allow more complex relationships between entities and enable developers to create more precise models of a database system. 
     
     
     
