@@ -1,6 +1,6 @@
 ## MySQL-Relational-Database-For-Small-Fictitious-Business
 
-## PROJECT DISCRIPTION 
+### PROJECT DISCRIPTION 
 
 Data Management & Storage Course,
 
