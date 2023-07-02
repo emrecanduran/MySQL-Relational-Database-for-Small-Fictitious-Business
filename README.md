@@ -1,6 +1,6 @@
-## MySQL-Relational-Database-For-Small-Fictitious-Business
+### MySQL-Relational-Database-For-Small-Fictitious-Business
 
-### PROJECT DISCRIPTION 
+## PROJECT DISCRIPTION 
 
 Data Management & Storage Course,
 
@@ -25,19 +25,19 @@ The goal of the project is to design and create a relational database in MySQL f
     include visible entity and attribute names
     
     
-### What is ERD? 
+## What is ERD? 
     
 An Entity-Relationship Diagram (ERD) is a visual representation of entities, attributes, and relationships between them in a database system. It shows how 
 different pieces of data in a database are related to each other. 
     
-### Why is important? 
+## Why is important? 
     
 ERD is important because it provides a clear understanding of the database design, the relationships between entities, and how data flows in the system. It 
 helps in identifying the entities and relationships that are needed to be included in the database design and also helps in identifying any potential issues 
 with the database schema design. ERD is widely used in database design and is an essential tool for developers, database administrators, and other stakeholders 
 involved in the development and maintenance of a database system.
 
-### What is EER? 
+## What is EER? 
 
 EER (Enhanced Entity-Relationship) diagrams are an extension of ER diagrams and include additional concepts and constructs such as subtypes, supertypes, and generalization. EER diagrams have additional features that allow more complex relationships between entities and enable developers to create more precise models of a database system. 
     
