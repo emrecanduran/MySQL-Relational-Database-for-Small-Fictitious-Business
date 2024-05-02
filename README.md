@@ -2,8 +2,6 @@
 
 ## PROJECT DISCRIPTION 
 
-Data Management & Storage Course,
-
 The goal of the project is to design and create a relational database in MySQL for a small fictitious business of any kind of products and/or services. 
 
 ### Project Essentials: 
